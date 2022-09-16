@@ -1,0 +1,12 @@
+[workspace]
+members = [".", "reproduction"]
+
+[package]
+name = "temp"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+anyhow = {version = "1.0.65", features = ["backtrace"]}
+rand = "0.8.5"

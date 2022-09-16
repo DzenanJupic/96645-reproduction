@@ -1,0 +1,12 @@
+C:\Users\info\Code\Rust\temp\target\debug\deps\thiserror_impl-b9d1c1e35e35d8a6.dll: C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\lib.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\ast.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\attr.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\expand.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\fmt.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\generics.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\prop.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\valid.rs
+
+C:\Users\info\Code\Rust\temp\target\debug\deps\thiserror_impl-b9d1c1e35e35d8a6.d: C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\lib.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\ast.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\attr.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\expand.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\fmt.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\generics.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\prop.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\valid.rs
+
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\lib.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\ast.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\attr.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\expand.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\fmt.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\generics.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\prop.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.35\src\valid.rs:

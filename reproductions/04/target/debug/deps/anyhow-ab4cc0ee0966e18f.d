@@ -1,0 +1,15 @@
+c:\Users\info\Code\Rust\temp\target\debug\deps\anyhow-ab4cc0ee0966e18f.rmeta: C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\lib.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\backtrace.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\chain.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\context.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\ensure.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\error.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\fmt.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\kind.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\macros.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\ptr.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\wrapper.rs
+
+c:\Users\info\Code\Rust\temp\target\debug\deps\anyhow-ab4cc0ee0966e18f.d: C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\lib.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\backtrace.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\chain.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\context.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\ensure.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\error.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\fmt.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\kind.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\macros.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\ptr.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\wrapper.rs
+
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\lib.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\backtrace.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\chain.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\context.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\ensure.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\error.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\fmt.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\kind.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\macros.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\ptr.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\anyhow-1.0.65\src\wrapper.rs:

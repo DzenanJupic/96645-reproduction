@@ -1,0 +1,11 @@
+C:\Users\info\Code\Rust\temp\target\debug\deps\unicode_segmentation-2969d215a2747b38.rmeta: C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\lib.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\grapheme.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\sentence.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\word.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\tables.rs
+
+C:\Users\info\Code\Rust\temp\target\debug\deps\libunicode_segmentation-2969d215a2747b38.rlib: C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\lib.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\grapheme.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\sentence.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\word.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\tables.rs
+
+C:\Users\info\Code\Rust\temp\target\debug\deps\unicode_segmentation-2969d215a2747b38.d: C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\lib.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\grapheme.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\sentence.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\word.rs C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\tables.rs
+
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\lib.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\grapheme.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\sentence.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\word.rs:
+C:\Users\info\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.10.0\src\tables.rs:
